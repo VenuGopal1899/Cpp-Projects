@@ -1,4 +1,4 @@
-Q2 : Balanced trees
+Balanced trees
 ===================
 
 Background
