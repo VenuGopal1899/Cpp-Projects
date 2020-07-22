@@ -1,4 +1,4 @@
-Q2 - Tensors
+Tensors
 ============
 
 Background
