@@ -1,4 +1,4 @@
-Q3 - Passive Networks
+Passive Networks
 =====================
 
 Background
