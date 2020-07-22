@@ -1,4 +1,4 @@
-Q3 - Power series
+Power series
 =================
 
 Overview
