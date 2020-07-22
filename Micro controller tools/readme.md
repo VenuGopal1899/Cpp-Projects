@@ -1,4 +1,4 @@
-Q1 - Microcontroller tools
+Microcontroller tools
 ==========================
 
 Overview
