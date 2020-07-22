@@ -1,4 +1,4 @@
-Q1 - Balancing Trees
+Balancing Trees
 ====================
 
 
